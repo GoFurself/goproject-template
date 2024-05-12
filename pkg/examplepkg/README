@@ -1,0 +1,1 @@
+        The pkg directory is intended to hold library code that's okay to use by external applications. This is where you would put the publicly accessible parts of your application (e.g., packages that can be imported by other projects).
